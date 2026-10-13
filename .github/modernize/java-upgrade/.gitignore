@@ -1,0 +1,15 @@
+# Ambientes virtuais
+venv/
+.venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos de saída
+MegaRAG/output/
