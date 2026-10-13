@@ -1,0 +1,9 @@
+peso = 10.5
+peso = int(peso)
+# print(f"float: {float(peso)}")
+print(str(9999.99))
+
+valor = 11
+valor_str = str(valor)
+print(type(valor))
+print( type(valor_str))
